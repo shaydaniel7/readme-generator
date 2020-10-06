@@ -49,5 +49,5 @@ node index.js.
 <br/>
 
 ## Information
-If you have any questions about this project, you can open an issue or contact me directly at shay@shaydaniel.com. You can find more of my work on Github at [shaydaniel7](https://github.com/shaydaniel7/).
+If you have any questions about this project, you can open an issue or contact me directly at shay@shaydaniel.com. You can find more of my work on Github at [shaydaniel7](https://github.com/shaydaniel7/).  [Here](https://github.com/shaydaniel7/readme.generator "Link to github repository") is the github repository for this project.
 
