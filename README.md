@@ -20,7 +20,7 @@ In this assignment, we were tasked with creating a command-line application that
 ## Installation
 To install necessary dependencies, run this command:
 ```
-npm install
+npm install + npm install inquirer
 ```
 
 <br/>
@@ -43,7 +43,7 @@ To contribute to this project, please email me at shay@shaydaniel.com.
 ## Tests
 To run tests, run this command:
 ```
-node index.js.
+npm run test
 ```
 
 <br/>
