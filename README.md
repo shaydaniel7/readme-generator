@@ -53,5 +53,6 @@ If you have any questions about this project, you can open an issue or contact m
 
 ## Screenshot
 
+<img width="1157" alt="Screen Shot 2020-10-06 at 9 10 19 PM" src="https://user-images.githubusercontent.com/67557233/95286511-631cc800-0818-11eb-81cc-e1e030f20d00.png">
 
 
