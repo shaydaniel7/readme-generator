@@ -12,7 +12,7 @@ This is a command-line application that dynamically generates a professional REA
 6. [Information](#info)
 
 ## Installation
-To install necessary dependencies, run this command:
+To install necessary dependencies, run these commands:
 ```
 npm install + npm install inquirer
 ```
