@@ -3,7 +3,7 @@
 <br/>
 
 ## Description
-In this assignment, we were tasked with creating a command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package.
+This is a command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package.
 
 <br/>
 
@@ -22,7 +22,6 @@ To install necessary dependencies, run this command:
 ```
 npm install + npm install inquirer
 ```
-
 <br/>
 
 ## Usage
@@ -35,17 +34,11 @@ This project is licensed by MIT.
 
 <br/>
 
-## Contributing
-To contribute to this project, please email me at shay@shaydaniel.com.
-
-<br/>
-
 ## Tests
 To run tests, run this command:
 ```
 npm run test
 ```
-
 <br/>
 
 ## Information
