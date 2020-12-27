@@ -23,7 +23,7 @@ const questions = [
 
     {
         type: "input",
-        message: "How should a user use this repo?  ",
+        message: "How should a user use this repository?  ",
         name: "usage",
     },
 
