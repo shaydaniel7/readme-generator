@@ -1,7 +1,7 @@
-# **test**
+# README.md Generator
 
 ## Description
-test
+This is a command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package.
 
 <br/>
 
@@ -16,10 +16,10 @@ test
 ## Installation
 To install necessary dependencies, run these commands:
 ```
-test
+npm install + npm install inquirer
 ```
 ## Usage
-test    
+Use this application when you need to include a README.md. Here is a short video showing how to use this application.    
 
 <br/>
 
@@ -28,15 +28,10 @@ This project is licensed by MIT.
 
 <br/>
 
-## Contributing
-test
-
-<br/>
-
 ## Tests
 To run tests, run this command:
 ```
-test
+npm run test
 ```
 ## Information
 If you have any questions about this project, you can open an issue or contact me directly at shay@shaydaniel.com. You can find more of my work on Github at [shaydaniel7](https://github.com/shaydaniel7/).
