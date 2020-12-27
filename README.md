@@ -19,7 +19,7 @@ To install necessary dependencies, run these commands:
 npm install + npm install inquirer
 ```
 ## Usage
-Use this application when you need to include a README.md. Here is a short video showing how to use this application.    
+Use this application when you need to include a README.md. [Here](https://drive.google.com/file/d/1JDhALV1BTWSLZGdh_7wQmvINYdFQ28NY/view) is a short video showing how to use this application.    
 
 <br/>
 
